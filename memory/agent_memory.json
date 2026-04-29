@@ -1,0 +1,845 @@
+{
+  "campaigns": [
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nRadiant skin starts now. Our CleanGlow Moisturizer delivers deep hydration with hyaluronic acid. No more dullness. Just a youthful, luminous glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #SkincareRoutine #GlowUp\n\n---CAPTION 2 (Storytelling)---  \nEver feel like your skin is craving a drink? You\u2019re not alone. Meet CleanGlow Moisturizer \u2013 your hydration hero. Infused with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say goodbye to thirsty skin and hello to a fresh, dewy look!\n\n---CAPTION 3 (UGC / Community)---  \n\"I've finally found my holy grail! My skin feels so hydrated and soft!\" - @skinlovely. Join our community of glow-getters! Share your story with us and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---\nHEADLINE: Reveal Your Radiance Today!\nSUB-HEADLINE: Unlock the secret to glowing skin with our clean formula.\nBODY:\n\u2022 Nourish and hydrate for a luminous glow.\n\u2022 Made with 100% natural ingredients you can trust.\n\u2022 Join thousands of happy customers who transformed their skin!\nCTA: Shop Now \u2013 Free Shipping Today Only!\n\n---AD 2 (PAS Framework)---\nPROBLEM: Struggling with dull, tired skin?\nAGITATE: You deserve to feel confident in your own skin, but harsh chemicals and ineffective products can leave you frustrated and lacking radiance.\nSOLVE: Discover our clean beauty solution that revitalizes and brightens your complexion naturally. Embrace the glow you\u2019ve been missing!\nCTA: Try It Now \u2013 Your Skin Will Thank You!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!  \nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:  \nHi there, beautiful!\n\nINTRO:  \nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin. \n\nBENEFITS:  \n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:  \n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:  \nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nTransform your skincare game. Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dry skin. Just radiant, dewy perfection. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #Hydration #SkincareEssentials  \n\n---CAPTION 2 (Storytelling)---  \nTired of your skin feeling parched? We\u2019ve been there! Meet CleanGlow Moisturizer, your new hydration bestie. Packed with hyaluronic acid, it quenches your skin\u2019s thirst, leaving it plump and luminous. Say goodbye to dryness and hello to your glow!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can't believe the difference! My skin feels so soft and hydrated!\" - @beautybyjess. Join our glow-getter community! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---  \nHEADLINE: Unlock Your Skin's Natural Glow!  \nSUB-HEADLINE: Experience clean beauty that transforms.  \nBODY:  \n\u2022 Revitalize dull skin with pure, hydrating ingredients.  \n\u2022 Enjoy a radiant complexion without harmful chemicals.  \n\u2022 Join 5,000+ glowing customers who love their skin!  \nCTA: Shop Now \u2013 Free Shipping Today Only!  \n\n---AD 2 (PAS Framework)---  \nPROBLEM: Tired of lackluster skin?  \nAGITATE: You deserve to shine, but synthetic products can leave your skin feeling lifeless and dull. Frustration builds as you search for a solution that truly works.  \nSOLVE: Meet our clean skincare hero! It hydrates, brightens, and rejuvenates your complexion naturally. Embrace the vibrant skin you've always wanted!  \nCTA: Try It Now \u2013 Feel the Difference!",
+        "email_campaign": "---EMAIL CAMPAIGN---  \nSUBJECT: Unlock Radiant Skin with Clean Beauty!  \nPREVIEW: Discover the skincare secret everyone\u2019s talking about.  \n\nGREETING:  \nHi there, beautiful!  \n\nINTRO:  \nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.  \n\nBENEFITS:  \n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:  \n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28  \n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!  \n\nSECONDARY CTA: [Learn more about our clean ingredients]  \n\nSIGN-OFF:  \nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---  \nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---  \nHEADLINE: Glow Naturally Today!  \nSUB-HEADLINE: Unlock radiant skin with our clean formula.  \nBODY:  \n\u2022 Hydrate deeply for a luminous complexion.  \n\u2022 Crafted with 100% natural ingredients you can trust.  \n\u2022 Join over 5,000 glowing customers who love their skin!  \nCTA: Shop Now \u2013 Free Shipping Today Only!  \n\n---AD 2 (PAS Framework)---  \nPROBLEM: Is your skin looking dull and lifeless?  \nAGITATE: You deserve to feel confident, but harsh chemicals can leave you frustrated and searching for a solution.  \nSOLVE: Discover our clean beauty secret that revitalizes and brightens your complexion naturally. Embrace your glow today!  \nCTA: Try It Now \u2013 Feel the Difference!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!\nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:\nHi there, beautiful!\n\nINTRO:\nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.\n\nBENEFITS:\n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:\n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:\nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": null,
+      "tone": null,
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": null,
+      "tone": null,
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": null,
+      "tone": null,
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---  \nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---  \nHEADLINE: Glow Naturally Today!  \nSUB-HEADLINE: Unlock radiant skin with our clean formula.  \nBODY:  \n\u2022 Hydrate deeply for a luminous complexion.  \n\u2022 Crafted with 100% natural ingredients you can trust.  \n\u2022 Join over 5,000 glowing customers who love their skin!  \nCTA: Shop Now \u2013 Free Shipping Today Only!  \n\n---AD 2 (PAS Framework)---  \nPROBLEM: Is your skin looking dull and lifeless?  \nAGITATE: You deserve to feel confident, but harsh chemicals can leave you frustrated and searching for a solution.  \nSOLVE: Discover our clean beauty secret that revitalizes and brightens your complexion naturally. Embrace your glow today!  \nCTA: Try It Now \u2013 Feel the Difference!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!\nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:\nHi there, beautiful!\n\nINTRO:\nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.\n\nBENEFITS:\n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:\n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:\nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": null,
+      "tone": null,
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": null,
+      "tone": null,
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---  \nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---  \nHEADLINE: Glow Naturally Today!  \nSUB-HEADLINE: Unlock radiant skin with our clean formula.  \nBODY:  \n\u2022 Hydrate deeply for a luminous complexion.  \n\u2022 Crafted with 100% natural ingredients you can trust.  \n\u2022 Join over 5,000 glowing customers who love their skin!  \nCTA: Shop Now \u2013 Free Shipping Today Only!  \n\n---AD 2 (PAS Framework)---  \nPROBLEM: Is your skin looking dull and lifeless?  \nAGITATE: You deserve to feel confident, but harsh chemicals can leave you frustrated and searching for a solution.  \nSOLVE: Discover our clean beauty secret that revitalizes and brightens your complexion naturally. Embrace your glow today!  \nCTA: Try It Now \u2013 Feel the Difference!",
+        "email_campaign": "---EMAIL CAMPAIGN---  \nSUBJECT: Unlock Radiant Skin with Clean Beauty!  \nPREVIEW: Discover the skincare secret everyone\u2019s talking about.  \n\nGREETING:  \nHi there, beautiful!  \n\nINTRO:  \nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.  \n\nBENEFITS:  \n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:  \n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28  \n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!  \n\nSECONDARY CTA: [Learn more about our clean ingredients]  \n\nSIGN-OFF:  \nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---  \nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---  \nHEADLINE: Illuminate Your Skin Naturally!  \nSUB-HEADLINE: Experience the magic of clean beauty.  \nBODY:  \n\u2022 Achieve a radiant glow with deep hydration.  \n\u2022 Crafted from 100% natural ingredients you can trust.  \n\u2022 Join 5,000+ satisfied customers loving their transformation!  \nCTA: Shop Now \u2013 Free Shipping Today Only!  \n\n---AD 2 (PAS Framework)---  \nPROBLEM: Is your skin feeling dry and lackluster?  \nAGITATE: You deserve to shine, but harsh chemicals and ineffective products can leave you feeling frustrated and insecure about your skin.  \nSOLVE: Discover our clean beauty solution that hydrates, revitalizes, and reveals a vibrant complexion. Embrace the glow you\u2019ve been missing!  \nCTA: Try It Now \u2013 Feel the Difference!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!\nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:\nHi there, beautiful!\n\nINTRO:\nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.\n\nBENEFITS:\n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.\n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.\n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.\n\nSOCIAL PROOF:\n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:\nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---\nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---\nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---\n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---\nHEADLINE: Glow Naturally Today!\nSUB-HEADLINE: Unlock radiant skin with our clean formula.\nBODY:\n\u2022 Hydrate deeply for a luminous complexion.\n\u2022 Crafted with 100% natural ingredients you can trust.\n\u2022 Join over 5,000 glowing customers who love their skin!\nCTA: Shop Now \u2013 Free Shipping Today Only!\n\n---AD 2 (PAS Framework)---\nPROBLEM: Is your skin feeling dry and lackluster?\nAGITATE: You deserve to shine, but harsh chemicals and ineffective products can leave you feeling frustrated and insecure about your skin.\nSOLVE: Discover our clean beauty solution that hydrates, revitalizes, and reveals a vibrant complexion. Embrace the glow you\u2019ve been missing!\nCTA: Try It Now \u2013 Feel the Difference!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!\nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:\nHi there, beautiful!\n\nINTRO:\nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.\n\nBENEFITS:\n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:\n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:\nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---  \nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---\nHEADLINE: Reveal Your Radiance Today!\nSUB-HEADLINE: Unlock the secret to glowing skin with our clean formula.\nBODY:\n\u2022 Nourish and hydrate for a luminous glow.\n\u2022 Made with 100% natural ingredients you can trust.\n\u2022 Join thousands of happy customers who transformed their skin!\nCTA: Shop Now \u2013 Free Shipping Today Only!\n\n---AD 2 (PAS Framework)---\nPROBLEM: Tired of dull, tired skin?\nAGITATE: You deserve to feel confident in your own skin, but harsh chemicals and ineffective products can leave you frustrated and lacking radiance.\nSOLVE: Discover our clean beauty solution that revitalizes and brightens your complexion naturally. Embrace the glow you\u2019ve been missing!\nCTA: Try It Now \u2013 Your Skin Will Thank You!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!\nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:\nHi there, beautiful!\n\nINTRO:\nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.\n\nBENEFITS:\n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:\n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:\nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---  \nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---\nHEADLINE: Unleash Your Natural Glow!\nSUB-HEADLINE: Discover the magic of clean skincare.\nBODY:\n\u2022 Deep hydration for a radiant, youthful complexion.\n\u2022 Formulated with 100% natural ingredients you can trust.\n\u2022 Join thousands of satisfied customers loving their glow!\nCTA: Shop Now \u2013 Free Shipping Today Only!\n\n---AD 2 (PAS Framework)---\nPROBLEM: Is your skin feeling dull and dry?\nAGITATE: You deserve to feel radiant, but harsh chemicals can leave your skin lifeless and frustrated. Searching for a true solution can be exhausting.\nSOLVE: Experience our clean beauty miracle that hydrates, revitalizes, and brings out your skin's natural vibrancy. Embrace the glow you've been dreaming of!\nCTA: Try It Now \u2013 Your Skin Will Thank You!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!\nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:\nHi there, beautiful!\n\nINTRO:\nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.\n\nBENEFITS:\n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:\n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:\nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---  \nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---  \nHEADLINE: Unleash Your Natural Glow!  \nSUB-HEADLINE: Discover the magic of clean skincare.  \nBODY:  \n\u2022 Deep hydration for a radiant, youthful complexion.  \n\u2022 Formulated with 100% natural ingredients you can trust.  \n\u2022 Join thousands of satisfied customers loving their glow!  \nCTA: Shop Now \u2013 Free Shipping Today Only!  \n\n---AD 2 (PAS Framework)---  \nPROBLEM: Is your skin feeling dull and dry?  \nAGITATE: You deserve to feel radiant, but harsh chemicals can leave your skin lifeless and frustrated. Searching for a true solution can be exhausting.  \nSOLVE: Experience our clean beauty miracle that hydrates, revitalizes, and brings out your skin's natural vibrancy. Embrace the glow you've been dreaming of!  \nCTA: Try It Now \u2013 Your Skin Will Thank You!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!\nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:\nHi there, beautiful!\n\nINTRO:\nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.\n\nBENEFITS:\n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:\n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:\nStay radiant,  \nThe [Brand Name] Team"
+      }
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "plan": [
+        {
+          "step": 1,
+          "task": "Conduct a detailed competitor analysis to identify successful content strategies and gaps in the market.",
+          "dependency": null
+        },
+        {
+          "step": 2,
+          "task": "Define the campaign objectives, including brand awareness, engagement, and conversion metrics.",
+          "dependency": 1
+        },
+        {
+          "step": 3,
+          "task": "Develop a content strategy focusing on authentic UGC, educational Reels, and eco-friendly messaging.",
+          "dependency": 2
+        },
+        {
+          "step": 4,
+          "task": "Create a content calendar outlining the posting schedule, including 5-7 posts per week across Feed, Stories, and Reels.",
+          "dependency": 3
+        },
+        {
+          "step": 5,
+          "task": "Design and produce visual content, including before/after images, ingredient spotlights, and 'Find Your Routine' quiz graphics.",
+          "dependency": 4
+        },
+        {
+          "step": 6,
+          "task": "Identify and collaborate with relevant influencers to amplify campaign reach and credibility.",
+          "dependency": 5
+        },
+        {
+          "step": 7,
+          "task": "Launch the Instagram campaign during the suggested launch window, focusing on peak activity times for the target audience.",
+          "dependency": 6
+        },
+        {
+          "step": 8,
+          "task": "Monitor engagement metrics and audience feedback in real-time to adjust content and strategy as needed.",
+          "dependency": 7
+        },
+        {
+          "step": 9,
+          "task": "Evaluate campaign performance against defined objectives and prepare a report with insights and recommendations for future campaigns.",
+          "dependency": 8
+        }
+      ]
+    },
+    {
+      "goal": "Launch Instagram campaign for skincare product",
+      "audience": "Women aged 22-35 interested in clean beauty",
+      "platform": "Instagram",
+      "budget": "medium",
+      "tone": "casual",
+      "content": {
+        "instagram_captions": "---CAPTION 1 (Benefit-Led)---  \nSay goodbye to dull skin! Our CleanGlow Moisturizer delivers intense hydration with hyaluronic acid. No more dryness. Just a fresh, dewy glow. Shop via the link in bio. \ud83d\uded2  \n#CleanBeauty #DewySkin #SkincareGoals  \n\n---CAPTION 2 (Storytelling)---  \nEver look in the mirror and feel your skin is begging for moisture? We get it! Meet CleanGlow Moisturizer, your hydration savior. Packed with hyaluronic acid, it quenches your skin, leaving it plump and radiant. Say hello to hydration and goodbye to thirsty skin!  \n\n---CAPTION 3 (UGC / Community)---  \n\"I can\u2019t believe how soft and hydrated my skin feels!\" - @glowgetter. Join our community of glow-getters! Share your skincare journey and tag us with #GlowWithUs for a chance to be featured!",
+        "ad_copies": "---AD 1 (AIDA Framework)---\nHEADLINE: Illuminate Your Skin Naturally!\nSUB-HEADLINE: Experience the magic of clean skincare.\nBODY:\n\u2022 Deep hydration for a radiant, youthful complexion.\n\u2022 Formulated with 100% natural ingredients you can trust.\n\u2022 Join thousands of satisfied customers loving their glow!\nCTA: Shop Now \u2013 Free Shipping Today Only!\n\n---AD 2 (PAS Framework)---\nPROBLEM: Is your skin feeling dull and dry?\nAGITATE: You deserve to feel radiant, but harsh chemicals can leave your skin lifeless and frustrated. Searching for a true solution can be exhausting.\nSOLVE: Experience our clean beauty miracle that hydrates, revitalizes, and brings out your skin's natural vibrancy. Embrace the glow you've been dreaming of!\nCTA: Try It Now \u2013 Your Skin Will Thank You!",
+        "email_campaign": "---EMAIL CAMPAIGN---\nSUBJECT: Unlock Radiant Skin with Clean Beauty!\nPREVIEW: Discover the skincare secret everyone\u2019s talking about.\n\nGREETING:\nHi there, beautiful!\n\nINTRO:\nStruggling with skincare that delivers? We get it. That\u2019s why we\u2019ve crafted a clean beauty solution that transforms your routine and your skin.\n\nBENEFITS:\n\u2022 **Natural Ingredients \u2192 Pure Glow:** Harness the power of botanicals for radiant skin.  \n\u2022 **Cruelty-Free Formula \u2192 Feel Good:** Love your skin while caring for the planet.  \n\u2022 **Hydration Boost \u2192 All-Day Comfort:** Enjoy lasting moisture without any greasy residue.  \n\nSOCIAL PROOF:\n\"I\u2019ve never felt so confident in my skin! This product is a game-changer!\" - Jamie, 28\n\nPRIMARY CTA: [Get Yours Now]  \nElevate your skincare routine today!\n\nSECONDARY CTA: [Learn more about our clean ingredients]\n\nSIGN-OFF:\nStay radiant,  \nThe [Brand Name] Team"
+      }
+    }
+  ],
+  "preferences": {
+    "platform": "Instagram",
+    "tone": "casual",
+    "audience": "Women aged 22-35 interested in clean beauty",
+    "budget": "medium"
+  },
+  "feedback": []
+}
